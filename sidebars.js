@@ -1296,6 +1296,7 @@ const sidebars = {
                 'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/Application/Xiao_C3_Ibeacon',
                 'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/Application/XIAO_ESP32C3_ESPresense',
                 'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/Application/XIAO_ESP32C3_MQTT',
+                'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/Application/XIAO_ESP32C3_Wireless_Camera',
               ],
             },
           ],
