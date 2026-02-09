@@ -142,5 +142,4 @@ frontmatter.json
 taxonomyDb.json
 
 # Ignore AI Agents.md
-CLAUDE.md
 GEMINI.md
